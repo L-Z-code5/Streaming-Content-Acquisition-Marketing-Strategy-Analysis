@@ -1,3 +1,3 @@
-Executive Summary
+Executive Summary:
 A digital streaming platform requires a data-driven framework to optimize its annual content acquisition budget and subscriber retention strategy. This project analyzes 1,000 historical titles to identify content drivers of financial yield (Revenue), audience reach (Votes), consumer sentiment (IMDb Rating), and critical divergence (Metascore).
 By transforming standard movie parameters into commercial marketing metrics, the analysis reveals that Creator Brand Equity (Director) drives highest top-of-funnel reach, while Genre Portfolio Allocation controls commercial monetization stability.
